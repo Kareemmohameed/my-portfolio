@@ -18,7 +18,7 @@ export default function Projects() {
       title: "E-Commerce UI",
       tag: "React, API",
       link: "https://github.com/KariemMohammed/ecommerce",
-      demo: "https://kariemmohammed.github.io/ecommerce/",
+      demo: "https://kareem-mohammed-stack.github.io/Ecommerce/",
     },
     {
       img: dashboard,
