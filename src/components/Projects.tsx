@@ -10,14 +10,14 @@ export default function Projects() {
       img: FoodieZonez,
       title: "FoodieZone",
       tag: "Vanilla Javascript, Bootstrap, API",
-      link: "https://github.com/KariemMohammed/FoodieZone",
+      link: "https://github.com/Kareem-Mohammed-Stack/FoodieZone",
       demo: "https://kareem-mohammed-stack.github.io/FoodieZone/",
     },
     {
       img: Ecommerce,
       title: "E-Commerce UI",
       tag: "React, API",
-      link: "https://github.com/KariemMohammed/ecommerce",
+      link: "https://github.com/Kareem-Mohammed-Stack/Ecommerce",
       demo: "https://kareem-mohammed-stack.github.io/Ecommerce/",
     },
     {
